@@ -1,0 +1,100 @@
+-1,...Baby One More Time,210,1,1
+-2,In the End,210,2,2
+-3,Blinding Lights,200,3,3
+-4,Numb,210,2,2
+-5,Shape of You,240,4,4
+-6,Levitating,203,5,5
+-7,Save Your Tears,215,3,3
+-8,Peaches,198,6,6
+-9,Easy On Me,225,7,7
+-10,Circus Maximus,250,8,8
+-11,Therefore I Am,196,9,9
+-12,Circles,215,10,10
+-13,You Belong With Me,210,11,24
+-14,Golden,190,12,12
+-15,My Future,210,9,9
+-16,No Time To Die,240,9,9
+-17,God's Plan,215,6,21
+-18,Love Story,220,11,43
+-19,Stupid Love,194,17,36
+-20,Positions,209,13,15
+-21,Drivers License,240,38,101
+-22,Bad Guy,195,9,28
+-23,Stay,175,15,30
+-24,Ghost,180,15,30
+-25,All Too Well,320,11,42
+-26,Dream On,270,39,102
+-27,Someone Like You,285,7,7
+-28,Sweet but Psycho,185,40,103
+-29,Roar,220,18,39
+-30,Dark Horse,215,18,39
+-31,Adore You,207,12,14
+-32,Happier Than Ever,300,9,9
+-33,Watermelon Sugar,174,12,14
+-34,Shivers,208,4,18
+-35,Castle on the Hill,261,4,4
+-36,Photograph,258,4,4
+-37,Starboy,230,3,17
+-38,Can’t Feel My Face,213,3,17
+-39,Earned It,240,3,17
+-40,Break My Heart,203,5,5
+-41,Don't Start Now,183,5,5
+-42,New Rules,182,5,5
+-43,Toxic,200,1,1
+-44,My Universe,210,28,77
+-45,Viva La Vida,242,28,73
+-46,Yellow,250,28,72
+-47,The Scientist,311,28,73
+-48,Faded,212,41,104
+-49,Lonely,200,15,31
+-50,Sucker,181,42,105
+-51,Cool,182,42,105
+-52,Burnin’ Up,210,42,105
+-53,Counting Stars,257,43,106
+-54,Apologize,229,43,106
+-55,Feel Again,234,43,106
+-56,Heat Waves,238,44,107
+-57,Gooey,287,44,107
+-58,Tokyo Drifting,212,44,107
+-59,Good 4 U,178,38,101
+-60,Deja Vu,215,38,101
+-61,Traitor,212,38,101
+-62,Mirrorball,207,11,54
+-63,Cardigan,239,11,55
+-64,Champagne Problems,246,11,54
+-65,Anti-Hero,200,11,108
+-66,Maroon,219,11,108
+-67,Lavender Haze,195,11,108
+-68,Die for You,238,3,17
+-69,The Hills,242,3,17
+-70,Party Monster,250,3,17
+-71,Thank U, Next,207,13,46
+-72,7 Rings,179,13,46
+-73,Into You,248,13,23
+-74,Dangerous Woman,236,13,23
+-75,Side to Side,203,13,23
+-76,God is a Woman,197,13,23
+-77,Blank Space,231,11,24
+-78,Style,231,11,24
+-79,Wildest Dreams,220,11,24
+-80,Shake It Off,219,11,24
+-81,ME!,193,11,13
+-82,The Archer,212,11,13
+-83,Cruel Summer,178,11,13
+-84,Exile,255,11,55
+-85,August,261,11,55
+-86,Willow,214,11,54
+-87,Evermore,300,11,54
+-88,Bones,210,45,109
+-89,Sharks,218,45,109
+-90,Thunder,187,45,109
+-91,Demons,177,45,109
+-92,Believer,204,45,109
+-93,Whatever It Takes,201,45,109
+-94,Enemy,172,45,109
+-95,On Melancholy Hill,232,46,110
+-96,Feel Good Inc.,219,46,110
+-97,Clint Eastwood,289,46,110
+-98,19 You + Me,226,47,111
+-99,Tequila,240,47,111
+-100,Speechless,233,47,111

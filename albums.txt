@@ -1,0 +1,100 @@
+-1,...Baby One More Time,1999,1
+-2,Hybrid Theory,2000,2
+-3,After Hours,2020,3
+-4,Divide,2017,4
+-5,Future Nostalgia,2020,5
+-6,Certified Lover Boy,2021,6
+-7,30,2021,7
+-8,Utopia,2023,8
+-9,Happier Than Ever,2021,9
+-10,Twelve Carat Toothache,2022,10
+-11,Reputation,2017,11
+-12,Fine Line,2019,12
+-13,Lover,2019,11
+-14,Harry's House,2022,12
+-15,Positions,2020,13
+-16,Sweetener,2018,13
+-17,Starboy,2016,3
+-18,Equals,2021,4
+-19,Don't Smile at Me,2017,9
+-20,Beerbongs & Bentleys,2018,10
+-21,Scorpion,2018,6
+-22,Views,2016,6
+-23,My Everything,2014,13
+-24,1989,2014,11
+-25,Take Care,2011,6
+-26,Dawn FM,2022,3
+-27,No.6 Collaborations Project,2019,4
+-28,When We All Fall Asleep, Where Do We Go?,2019,9
+-29,Revival,2015,14
+-30,Justice,2021,15
+-31,Purpose,2015,15
+-32,Curtain Call,2005,14
+-33,Encore,2004,14
+-34,Confetti,2020,16
+-35,Between Us,2021,16
+-36,Chromatica,2020,17
+-37,Born This Way,2011,17
+-38,Artpop,2013,17
+-39,Prism,2013,18
+-40,Teenage Dream,2010,18
+-41,Smile,2020,18
+-42,Red,2012,11
+-43,Fearless,2008,11
+-44,Speak Now,2010,11
+-45,The Fame,2008,17
+-46,Thank U, Next,2019,13
+-47,Manic,2020,19
+-48,Badlands,2015,19
+-49,Hozier,2014,20
+-50,Wasteland, Baby!,2019,20
+-51,CTRL,2017,21
+-52,SOS,2022,21
+-53,Invasion of Privacy,2018,22
+-54,Evermore,2020,11
+-55,Folklore,2020,11
+-56,Romance,2019,23
+-57,Camila,2018,23
+-58,The Off-Season,2021,24
+-59,KOD,2018,24
+-60,The College Dropout,2004,25
+-61,Graduation,2007,25
+-62,Donda,2021,25
+-63,Bangerz,2013,26
+-64,Plastic Hearts,2020,26
+-65,Younger Now,2017,26
+-66,Map of the Soul: 7,2020,27
+-67,BE,2020,27
+-68,Love Yourself: Tear,2018,27
+-69,METEORA,2003,2
+-70,Minutes to Midnight,2007,2
+-71,Living Things,2012,2
+-72,Parachutes,2000,28
+-73,A Rush of Blood to the Head,2002,28
+-74,X&Y,2005,28
+-75,Mylo Xyloto,2011,28
+-76,Ghost Stories,2014,28
+-77,Music of the Spheres,2021,28
+-78,Random Access Memories,2013,29
+-79,Discovery,2001,29
+-80,Human After All,2005,29
+-81,No One Else Can Wear Your Crown,2020,30
+-82,Ultraviolence,2014,31
+-83,Born to Die,2012,31
+-84,NFR!,2019,31
+-85,Blue Banisters,2021,31
+-86,Montero,2021,32
+-87,7 EP,2019,32
+-88,Heard It in a Past Life,2019,33
+-89,Immunity,2019,34
+-90,Sling,2021,34
+-91,Planet Her,2021,35
+-92,Hot Pink,2019,35
+-93,Blonde,2016,36
+-94,Channel Orange,2012,36
+-95,The Life of Pablo,2016,25
+-96,Ye,2018,25
+-97,To Pimp a Butterfly,2015,37
+-98,DAMN.,2017,37
+-99,good kid, m.A.A.d city,2012,37
+-100,Mr. Morale & the Big Steppers,2022,37
